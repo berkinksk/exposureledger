@@ -1,0 +1,8 @@
+{
+  "description": "read test",
+  "created": "2026-10-26",
+  "items": [
+    { "row_id": "R00", "software": "test software 1.0" },
+    { "row_id": "R99", "software": "second test row 2.0" }
+  ]
+}
