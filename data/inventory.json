@@ -1,0 +1,22 @@
+{
+  "description": "Synthetic software inventory of a fictional 200-person charity (starter list; made-up data)",
+  "created": "2026-10-26",
+  "items": [
+    {"row_id": "S01", "asset_id": "A01", "asset_name": "erp-portal-01", "asset_type": "server", "internet_facing": "yes", "owner_team": "Finance", "software": "log4j-core 2.14.1 (bundled in ERP-Portal WAR)"},
+    {"row_id": "S02", "asset_id": "A02", "asset_name": "mail-01", "asset_type": "server", "internet_facing": "yes", "owner_team": "IT", "software": "MS Exchange Svr 2019 CU12"},
+    {"row_id": "S03", "asset_id": "A13", "asset_name": "m365-tenant", "asset_type": "cloud", "internet_facing": "yes", "owner_team": "IT", "software": "Exchange Online (M365 tenant)"},
+    {"row_id": "S04", "asset_id": "A03", "asset_name": "branch-fw-01", "asset_type": "firewall", "internet_facing": "yes", "owner_team": "IT", "software": "FortiGate 60F, FortiOS 7.2.4"},
+    {"row_id": "S05", "asset_id": "A04", "asset_name": "remote-01", "asset_type": "vpn", "internet_facing": "yes", "owner_team": "IT", "software": "Citrix NetScaler ADC 13.1-48.47"},
+    {"row_id": "S06", "asset_id": "A05", "asset_name": "web-01", "asset_type": "server", "internet_facing": "yes", "owner_team": "Comms", "software": "Apache httpd 2.4.49"},
+    {"row_id": "S07", "asset_id": "A06", "asset_name": "fin-laptop-07", "asset_type": "laptop", "internet_facing": "no", "owner_team": "Finance", "software": "Notepad++ v8.6"},
+    {"row_id": "S08", "asset_id": "A06", "asset_name": "fin-laptop-07", "asset_type": "laptop", "internet_facing": "no", "owner_team": "Finance", "software": "FortiClient VPN 7.0.9"},
+    {"row_id": "S09", "asset_id": "A07", "asset_name": "edge-fw-02", "asset_type": "firewall", "internet_facing": "yes", "owner_team": "IT", "software": "PAN-OS 11.1 (PA-440)"},
+    {"row_id": "S10", "asset_id": "A08", "asset_name": "vpn-gw-02", "asset_type": "vpn", "internet_facing": "yes", "owner_team": "IT", "software": "Ivanti Connect Secure 22.7R2"},
+    {"row_id": "S11", "asset_id": "A09", "asset_name": "docs-01", "asset_type": "server", "internet_facing": "no", "owner_team": "Comms", "software": "ONLYOFFICE Docs 7.2"},
+    {"row_id": "S12", "asset_id": "A10", "asset_name": "cms-01", "asset_type": "server", "internet_facing": "yes", "owner_team": "Comms", "software": "strapi v4.5.6"},
+    {"row_id": "S13", "asset_id": "A11", "asset_name": "hr-laptop-02", "asset_type": "laptop", "internet_facing": "no", "owner_team": "HR", "software": "Citrix Workspace app 2203"},
+    {"row_id": "S14", "asset_id": "A11", "asset_name": "hr-laptop-02", "asset_type": "laptop", "internet_facing": "no", "owner_team": "HR", "software": "Google Chrome 129"},
+    {"row_id": "S15", "asset_id": "A11", "asset_name": "hr-laptop-02", "asset_type": "laptop", "internet_facing": "no", "owner_team": "HR", "software": "7-Zip 23.01"},
+    {"row_id": "S16", "asset_id": "A12", "asset_name": "reception-pc-01", "asset_type": "desktop", "internet_facing": "no", "owner_team": "Ops", "software": "Windows 10 22H2"}
+  ]
+}
